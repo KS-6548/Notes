@@ -1,0 +1,23 @@
+body{
+    overflow-x: hidden;
+}
+.login{
+    max-width: 400px !important;
+    margin-top: 100px;
+}
+.model{
+    max-width: 600px !important;
+    max-height: 580px !important;
+}
+.pin:hover{
+    color: #0d6efd !important;
+}
+.pencil:hover{
+    color: #0d6efd !important;
+}
+.tash:hover{
+    color: #dc3545 !important;
+}
+.closes{
+    right: 30px;
+}
